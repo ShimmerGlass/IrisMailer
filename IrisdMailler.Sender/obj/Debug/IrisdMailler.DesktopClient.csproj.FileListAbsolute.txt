@@ -1,0 +1,1 @@
+C:\Users\aestek\Dev\C#\IrisMailler\IrisdMailler.DesktopClient\bin\Debug\IrisdMailler.DesktopClient.exe.config

@@ -1,0 +1,11 @@
+C:\Users\aestek\Dev\C#\XMailer\test\bin\Release\test.exe.config
+C:\Users\aestek\Dev\C#\XMailer\test\bin\Release\test.exe
+C:\Users\aestek\Dev\C#\XMailer\test\bin\Release\test.pdb
+C:\Users\aestek\Dev\C#\XMailer\test\bin\Release\XMailerLib.dll
+C:\Users\aestek\Dev\C#\XMailer\test\bin\Release\RazorEngine.dll
+C:\Users\aestek\Dev\C#\XMailer\test\bin\Release\XMailerLib.pdb
+C:\Users\aestek\Dev\C#\XMailer\test\obj\Release\test.csprojResolveAssemblyReference.cache
+C:\Users\aestek\Dev\C#\XMailer\test\obj\Release\test.exe
+C:\Users\aestek\Dev\C#\XMailer\test\obj\Release\test.pdb
+C:\Users\aestek\Dev\C#\XMailer\test\bin\Release\System.Web.Razor.dll
+C:\Users\aestek\Dev\C#\XMailer\test\bin\Release\RazorEngine.pdb

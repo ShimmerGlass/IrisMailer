@@ -1,0 +1,14 @@
+C:\Users\aestek\Dev\C#\IrisMailler\IrisMailler.DataModel\bin\Debug\IrisMailler.DataModel.dll.config
+C:\Users\aestek\Dev\C#\IrisMailler\IrisMailler.DataModel\bin\Debug\IrisMailler.DataModel.dll
+C:\Users\aestek\Dev\C#\IrisMailler\IrisMailler.DataModel\bin\Debug\IrisMailler.DataModel.pdb
+C:\Users\aestek\Dev\C#\IrisMailler\IrisMailler.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\aestek\Dev\C#\IrisMailler\IrisMailler.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\aestek\Dev\C#\IrisMailler\IrisMailler.DataModel\obj\Debug\IrisMailler.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\aestek\Dev\C#\IrisMailler\IrisMailler.DataModel\obj\Debug\IrisMailler.DataModel.dll
+C:\Users\aestek\Dev\C#\IrisMailler\IrisMailler.DataModel\obj\Debug\IrisMailler.DataModel.pdb
+C:\Users\aestek\Dev\C#\IrisMailler\IrisMailler.DataModel\obj\Debug\IrisMailler.DataModel.csproj.GenerateResource.Cache
+C:\Users\aestek\Dev\C#\IrisMailler\IrisMailler.DataModel\obj\Debug\IrisMailler.DataModel.Config.resources
+C:\Users\aestek\Dev\C#\IrisMailler\IrisMailler.DataModel\obj\Debug\IrisMailler.DataModel.Migrations.FirstMig.resources
+C:\Users\aestek\Dev\C#\IrisMailler\IrisMailler.DataModel\obj\Debug\IrisMailler.DataModel.Migrations.folderType.resources
+C:\Users\aestek\Dev\C#\IrisMailler\IrisMailler.DataModel\obj\Debug\IrisMailler.DataModel.Migrations.Content.resources
+C:\Users\aestek\Dev\C#\IrisMailler\IrisMailler.DataModel\obj\Debug\IrisMailler.DataModel.Migrations.Content1.resources
